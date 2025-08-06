@@ -179,5 +179,5 @@ credenciales_sqlserver.py
 /modules/credentials
 
 /data_import/airbnb/data
-
+/presentacion
 .DS_Store
