@@ -2,7 +2,7 @@
 
 Desarrolladores:
 
-Mario Diaz-Rullo
-David Santamaria
-Marcos Gambin
-Joseba Ayarzaguena
+- Mario Diaz-Rullo
+- David Santamaria
+- Marcos Gambin
+- Joseba Ayarzaguena
